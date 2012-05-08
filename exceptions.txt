@@ -171,4 +171,4 @@
 75477: 'Chip & Chap', 'Chip und Chap', 'Chip und Chap - Die Ritter des Rechts',
 161461: 'Rizzoli & Isles', 'Rizzoli and Isles', 'Rizzoli und Isles',
 257564: 'Der XXL-Ostfriese', 'Der XXL Ostfriese',
-95491: 'The Vampire Diaries', 'Vampire Diaries', 'euhd-vampire', 'sof-the.vampire.diaries'
+95491: 'The Vampire Diaries', 'Vampire Diaries', 'euhd vampire', 'sof the vampire diaries'
